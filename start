@@ -1,0 +1,16 @@
+write js code in vs code app
+first create html file
+html>head>body>script
+eg:
+<html>
+<head>
+</head>
+<body>
+<-----js---->
+<script>
+alert("hello");
+
+console .log ("hello i'm build js");
+</script>
+</body>
+</html>
